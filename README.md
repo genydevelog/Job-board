@@ -104,4 +104,4 @@ npm run build
 - Powered by React and Vite
 - Styled with Tailwind CSS
 
-Built with ❤️ on Rocket.new
+Built by KODJEU Geneviève, TCHADEU DJOMO Brun, ASR students at IUSTE Mendong
